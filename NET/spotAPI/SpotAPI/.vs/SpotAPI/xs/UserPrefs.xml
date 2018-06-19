@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0A2A2780-A219-4B76-94B0-EF5164F251F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpotAPI/Program.cs">
+    <Files>
+      <File FileName="SpotAPI/Program.cs" Line="9" Column="25" />
+      <File FileName="SpotAPI/master.cs" Line="8" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpotAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

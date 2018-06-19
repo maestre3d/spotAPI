@@ -1,0 +1,11 @@
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/bin/Debug/netcoreapp2.1/SpotAPI.deps.json
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/bin/Debug/netcoreapp2.1/SpotAPI.runtimeconfig.json
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/bin/Debug/netcoreapp2.1/SpotAPI.runtimeconfig.dev.json
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/bin/Debug/netcoreapp2.1/SpotAPI.dll
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/bin/Debug/netcoreapp2.1/SpotAPI.pdb
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/obj/Debug/netcoreapp2.1/SpotAPI.csprojResolveAssemblyReference.cache
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/obj/Debug/netcoreapp2.1/SpotAPI.csproj.CoreCompileInputs.cache
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/obj/Debug/netcoreapp2.1/SpotAPI.AssemblyInfoInputs.cache
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/obj/Debug/netcoreapp2.1/SpotAPI.AssemblyInfo.cs
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/obj/Debug/netcoreapp2.1/SpotAPI.dll
+/home/maestre/spotAPI/NET/spotAPI/SpotAPI/SpotAPI/obj/Debug/netcoreapp2.1/SpotAPI.pdb
