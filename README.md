@@ -1,0 +1,2 @@
+# spotAPI
+Spot API Rest
